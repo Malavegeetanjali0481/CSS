@@ -1,7 +1,7 @@
 # CSS Styling
 This Project involves creating a website using css.The objective is learning css and making projects using basics. 
 ### intro01
-link to demo : - [live]()
+link to demo : - [live](https://github.com/Malavegeetanjali0481/CSS/blob/main/CSS/intro01.html)
 ### intro02
 link to demo : - [live]()
 ### style02

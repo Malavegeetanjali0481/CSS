@@ -1,0 +1,30 @@
+div1{
+    text-align: center;
+    margin-top: 10px;
+    
+}
+div2{
+     text-align: center;
+      margin-top: 60px;
+      
+}
+h1{
+    text-align: center;
+    border: 50px;
+    margin-top: 50px;
+    color: rgb(191, 202, 192);
+   
+}
+.container{
+            display:grid;
+            grid-template-rows: repeat(3,auto);
+            row-gap: 30px;
+            margin-top: 20px;
+
+}
+button{
+    
+    background-color: rgb(50, 144, 48);
+    border-radius: 50px;
+    align-items:center;
+}

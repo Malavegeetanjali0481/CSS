@@ -1,0 +1,19 @@
+ body{
+    text-align:center;
+  background-image: url("butterfly.jpg");
+  background-size: cover;
+}
+div{
+    height:100px;
+    width:100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+h3{
+    text-align: left;
+}
+
+
+ 
+ 
+ 

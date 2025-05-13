@@ -1,0 +1,23 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color:palevioletred;
+    border:black ;
+    border:2px;
+ } 
+ @media (width : 400px) {
+    div{
+        background-color: rgb(194, 19, 10);
+    }
+}
+    @media ( min-width : 400px) {
+    div{
+        background-color: rgb(36, 208, 53);
+    }
+ }
+ @media (min-width:200px) and (max-width:300px){
+    div{
+    background-color:black; 
+ }
+} 
+ 

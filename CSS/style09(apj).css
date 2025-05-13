@@ -1,0 +1,34 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize ;
+    text-decoration-thickness:initial;
+}
+.container{
+    background-color: rgb(212, 182, 227);
+    height:700px;
+    border: 8px solid black 
+}
+.content{
+    max-width: 900px;
+    margin: 0auto;
+}
+.top_section{
+    display:flex;
+    justify:space-between;
+
+}
+.image_container{
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 30px;
+    
+}
+footer{
+    text-align: end;
+}

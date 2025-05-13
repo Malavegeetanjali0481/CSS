@@ -12,6 +12,8 @@ link to demo : - [live]()
 link to demo : - [live]()
 ### intro04(position)
 link to demo : - [live]()
+### style04(position)
+link to demo : - [live]()
 ### intro05
 link to demo : - [live]()
 ### style05
@@ -29,6 +31,8 @@ link to demo : - [live]()
 ### style08
 link to demo : - [live]()
 ### intro09(apj)
+link to demo : - [live]()
+### style09(apj)
 link to demo : - [live]()
 ## Technologies used
 

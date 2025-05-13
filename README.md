@@ -30,5 +30,16 @@ link to demo : - [live]()
 link to demo : - [live]()
 ### intro09(apj)
 link to demo : - [live]()
+## Technologies used
+
+- HTML
+  
+ ## Authors
+
+- [@MalaveGeetanjali](https://github.com/Malavegeetanjali0481)
+  ## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malave-geetanjali-a57207343)
+
 
 
